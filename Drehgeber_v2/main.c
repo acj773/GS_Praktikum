@@ -12,7 +12,7 @@ int main(void)
 {
 	/*----------------------INITIALISIERUNG----------------------------------*/
 	Init_TI_Board();
-	init_display();  //!!!!!!  Einkommentieren !!!!!!!!
+	init_display();  
 	timerinit();
 	
 	
